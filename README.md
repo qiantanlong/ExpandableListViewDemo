@@ -1,0 +1,2 @@
+# ExpandableListViewDemo
+ExpandableListView的一个demo，实现了只展示一个groupview的item（展示全部groupview的条目），实现了groupview和childview的分别点击和长按处理，groupview和childview都有条目图片，点击childview条目背景颜色改变。
